@@ -23,8 +23,8 @@ I felt more successful with the outcome of my first comp, especially how the pag
 
 ## Comp 2
 
-<img src="imgages/comp2.png" alt="Comp 2 Screen Shot">
+<img src="images/comp2.png" alt="Comp 2 Screen Shot">
 
 ## My Replication of Comp 2
 
-<img src="imgages/amy_comp2.png" alt="Amy's Comp 2 Screen Shot">
+<img src="images/amy_comp2.png" alt="Amy's Comp 2 Screen Shot">
