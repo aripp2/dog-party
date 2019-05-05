@@ -1,0 +1,172 @@
+*{
+	box-sizing: border-box;
+}
+body {
+	background-color: #ffffff;
+	font-family: 'Open Sans', sans-serif;
+	border-color: #000000;
+	border-width: 1px;
+	margin: 0;
+	border-style: solid;
+}
+nav {
+	width: 100%; 
+	height: 100px;
+	background-color: #75e2e6;
+	border-style: solid;
+	border-color: #048eaa;
+	border-width: 0 0 2px 0;
+	display: inline-block;
+}
+.icon {
+	height: 75px;
+	width: 75px;
+	margin: 10px 0 0 30px;
+}
+.list-one {
+	display: inline;
+	color: #000000;
+	padding: 5px;
+	margin-right: 25px;
+	font-weight: 400;
+	font-size: 25px;
+}
+.nav-list {
+	float: right;
+	height: 40px;
+	text-align: right;
+	margin-top: 30px;
+}
+header {
+	background-image: url(images/park.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: rgba(0, 0, 0, 0.5);
+	background-blend-mode: multiply;
+	background-position: 50% 70%;
+	width: 100%;
+	height: 650px;
+}
+h1 {
+	color: #ffffff;
+	text-align: center;
+	font-weight: 400;
+	font-size: 45px;
+	margin-top: 0px;
+	padding-top: 30px;	
+}
+span {
+	font-weight: 800;
+}
+#main-dog {
+	margin: auto;
+	text-align: center;
+	display: block;
+}
+form {
+	margin: auto;
+	width: 30%;
+	text-align: center;
+}
+#name {
+	color: #ffffff;
+	display: inline-block;
+	font-size: 25px;
+	text-align: left;
+	margin-top: 25px;
+	margin-bottom: 8px;
+	width: 100%;
+}
+input {
+	background-color: #ffffff;
+	height: 70px; 
+	width: 100%;
+	color: #ffffff;
+	border-radius: 2.5px;
+	margin-bottom: 30px;
+}
+#namedog {
+	background-color: #75e2e6;
+	color: #ffffff;	
+	height: 70px; 
+	width: 100%;
+	color: #000000;
+	border-radius: 2.5px;
+	border-style: none;
+	font-size: 25px;
+}
+section {
+	display: inline;
+	width: 100%;
+	height: 900px;
+}
+h2 {
+	font-size: 35px;
+	font-weight: 700;
+	height: 80px;
+}
+.dog {
+    border-radius: 50%;
+    border-color: #048eaa;
+    border-width: 5px;
+    border-style: solid;
+    height: 250px;
+    width: 250px;
+}
+button {
+	background-color: #048eaa;
+	color: #ffffff;	
+	text-align: center;
+	height: 70px;
+	width: 100%;
+	display: inline;
+	border-radius: 2.5px;
+	font-size: 25px;
+	margin-top: 15px;
+}
+.column1, .column2, .column3 {
+	width: 33%;
+	height: 900px;
+	display: inline-block;
+	text-align: center;
+	padding: 20px 50px 0 50px;
+	vertical-align: top;
+}
+.words {
+	width: 100%;
+	text-align: left;
+	min-height: 250px;
+	font-weight: 700;
+	font-size: 20px;
+}
+#how, #what, #facts {
+	vertical-align: bottom;
+}
+footer {
+	background-color: #048eaa;
+	text-align: center;
+	color: #ffffff;	
+	width: 100%;
+	height: 250px;
+}
+#learn {
+	margin-top: 50px;
+	padding-top: 60px;
+	font-size: 25px;
+}
+.social {
+	height: 80px;
+	width: 100%;
+	margin: auto;
+}
+.logo {
+	height: 60px;
+	width: 60px;
+	text-align: center;
+	display: inline-block;
+	margin-right: 40px
+}
+.link {
+	height: 100%;
+	width: 100%;
+}
